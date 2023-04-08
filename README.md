@@ -19,7 +19,7 @@ A simple proyect for practice the basics of HTML and CSS
 ### Links
 
 - Solution URL: [Solution](https://github.com/lauty200413/FEM-Proyect-1-QR-code-component)
-- Live Site URL: [live site URL]([https://your-live-site-url.com](https://lauty200413.github.io/FEM-Proyect-1-QR-code-component/](https://lauty200413.github.io/FEM-Proyect-1-QR-code-component/))
+- Live Site URL: [live site URL](https://lauty200413.github.io/FEM-Proyect-1-QR-code-component/)
 
 
 ### Built with
