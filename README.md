@@ -19,7 +19,7 @@ A simple proyect for practice the basics of HTML and CSS
 ### Links
 
 - Solution URL: [Solution](https://github.com/lauty200413/FEM-Proyect-1-QR-code-component)
-- Live Site URL: [live site URL](https://your-live-site-url.com)
+- Live Site URL: [live site URL](https://your-live-site-url.com](https://lauty200413.github.io/FEM-Proyect-1-QR-code-component/)
 
 
 ### Built with
@@ -28,11 +28,11 @@ A simple proyect for practice the basics of HTML and CSS
 - CSS
 
 ### Continued development
-
+I started the [Complete Web Development Bootcamp from Angela Yu](https://www.udemy.com/course/the-complete-web-development-bootcamp/) the 26 of march of 2023, i will keep uploading my progress.
 I'm currently learning Bootstrap and I want to learn JavaScript and React and some react frameworks and then specialize in Web3
 
 ## Author
 
 - Website - [Lauty](https://lauty200413.github.io/Stylised-Personal-Site/)
-- Frontend Mentor - [@Anglea Yu](https://www.udemy.com/course/the-complete-web-development-bootcamp/)
+- Mentor - [@Anglea Yu](https://www.udemy.com/course/the-complete-web-development-bootcamp/)
 
